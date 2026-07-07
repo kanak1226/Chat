@@ -1,6 +1,5 @@
 <h1 align="center">✨  Chat App ✨</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
 
 Highlights:
 
